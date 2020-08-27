@@ -10,4 +10,5 @@ This repository is for showing how Git and GitHub work
  GENT KASTRATI
 ## How to Contribute
 
+Ples
 2020 Git Training
