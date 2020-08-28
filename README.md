@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 
 ##Starter Guide
+man
 
 This is a repository only for purposes to learn git and github 
 
